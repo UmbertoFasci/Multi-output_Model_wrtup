@@ -17,3 +17,6 @@ output_2 = Dense(units='1', name='output_2')(third_dense)
 ```
 
 As it can be observed in the above code the `second_dense` layer is referenced twice, causing a branch intermediate an output and a continuing dense layer.
+
+## Real Applications of The Multi-output Model Architecture.
+
