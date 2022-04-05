@@ -21,4 +21,4 @@ As it can be observed in the above code the `second_dense` layer is referenced t
 ## Real Applications of The Multi-output Model Architecture.
 |**Title**|**Description**|**File**|
 |---------|---------------|--------|
-|Energy Efficiency Regression|Excel dataset found in the UCI Machine Learning Repository.||
+|Energy Efficiency Regression|Excel dataset found in the UCI Machine Learning Repository.|[File](https://github.com/UmbertoFasci/Multi-output_Model_wrtup/blob/main/EnergyEfficiencyRegression.ipynb)|
