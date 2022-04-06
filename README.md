@@ -26,3 +26,4 @@ As it can be observed in the above code the `second_dense` layer is referenced t
 ## Experiments
 |**Title**|**Description**|**File**|
 |-|-|-|
+|Solar Flare Zurich Code Classification|Utilizing TensorFlow functional API to classify solar flare Zurich class.|[File](https://github.com/UmbertoFasci/Multi-output_Model_wrtup/blob/main/SolarFlare_ZurichClass_MultiOutput.ipynb)|
